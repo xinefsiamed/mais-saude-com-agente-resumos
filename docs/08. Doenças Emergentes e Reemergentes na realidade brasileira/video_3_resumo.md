@@ -77,7 +77,7 @@ Aqui está a revisão estruturada do conteúdo apresentado:
 - "A população é protagonista no controle vetorial."  
 
 **Sugestão para Aprofundamento**:  
-- Consultar o [Boletim Internacional do Ministério da Saúde](link) sobre tecnologias emergentes.  
+- Consultar o [Boletim Internacional do Ministério da Saúde](https://www.gov.br/saude/pt-br/centrais-de-conteudo/publicacoes/boletins/epidemiologicos) sobre tecnologias emergentes.  
 
 --- 
 Esta revisão mantém o conteúdo original, organizando-o de forma didática e destacando os pontos-chave para facilitar a compreensão e aplicação prática.

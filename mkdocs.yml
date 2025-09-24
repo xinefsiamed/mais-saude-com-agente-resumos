@@ -1,4 +1,5 @@
 site_name: Curso Mais Saúde com Agente
+repo_url: https://github.com/xinefsiamed/mais-saude-com-agente-resumos
 
 theme:
   name: material
